@@ -20,7 +20,7 @@ from six.moves import xrange
 import tensorflow as tf
 
 #parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # parent folder
-parent_dir = "/home/team6/Bigdata_textsum"# parent folder
+parent_dir = "/home/team6/ArticleTitleGenerator/model"# parent folder
 sys.path.append(parent_dir)
 
 #from textsum import data_utils # absolute import
@@ -31,11 +31,11 @@ import seq2seq_model
 
 file_path = os.path.dirname(os.path.abspath(__file__))
 print(file_path)
-file_path = "/home/team6/Bigdata_textsum"
-data_path = "/home/team6/Bigdata_textsum/news"
-train_dir = "/home/team6/Bigdata_textsum/ckpt"
-#data_path = os.path.join(file_path, "news")
-#train_dir = os.path.join(file_path, "ckpt")
+file_path = "/home/team6/ArticleTitleGenerator/model"
+#data_path = "/home/team6/Bigdata_textsum/news"
+#train_dir = "/home/team6/Bigdata_textsum/ckpt"
+data_path = os.path.join(file_path, "news")
+train_dir = os.path.join(file_path, "ckpt")
 
 # We use a number of buckets and pad to the closest one for efficiency.
 # See seq2seq_model.Seq2SeqModel for details of how they work.
