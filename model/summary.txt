@@ -1,0 +1,10 @@
+_UNK _UNK _UNK _UNK _UNK
+TAG_NUMBER TAG_NUMBER 號 TAG_NUMBER 人 TAG_NUMBER 人 TAG_NUMBER
+新台幣 區間 整理 早盤 早盤 貶 TAG_NUMBER
+新台幣 午盤 午盤 暫收 TAG_NUMBER 暫收 TAG_NUMBER
+九寨溝 強震 傳 國台 辦 國台 辦
+羽球 羽球 羽球 局 周天 _UNK
+男子 涉性 涉性 侵 _UNK _UNK _UNK
+港 港 香港 香港 習近平 香港
+對流 旺盛 TAG_NUMBER 縣市 大雨
+土耳其 國會 自殺 攻擊 TAG_NUMBER 人 TAG_NUMBER
